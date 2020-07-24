@@ -1,6 +1,8 @@
 # EGLA!
 Extremely Good, Lightweight Analytics!
 
+![Example Image](https://github.com/ryanrocket/egla/example.png)
+
 ## Usage
 Just add the CDN above your other scripts with your API key and you're good!<br><br>
 `<script src="https://ryanwans.com/eglaEndpoint/get/egla0x.js"></script>`<br>
