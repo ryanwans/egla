@@ -1,4 +1,4 @@
-# egla
+# EGLA!
 Extremely Good, Lightweight Analytics!
 
 ## Usage
