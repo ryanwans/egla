@@ -7,6 +7,6 @@ Literally just add the CDN above your other scripts with your API key and you're
 ...<br>
 `<body></body>`<br>
 `<script>`<br>
-`&emsp;&emsp;window.__eglaAPIKey = "...";`<br>
+&emsp;&emsp;`window.__eglaAPIKey = "...";`<br>
 `</script>`
 
